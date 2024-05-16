@@ -7,7 +7,7 @@ It's brought to you by [Softvelum](https://softvelum.com/) and it's part of our 
 This tool is used for testing our upcoming WHEP ABR playback support in [Nimble Streamer](https://softvelum.com/nimble/webrtc/), more updates are coming soon.
 
 ## Build
-WHEP Load Tester is a Go script and in order to build it, you need to get into load tester folder run Go builder:
+WHEP Load Tester is a Go program and in order to build it, you need to get into load tester folder and run go build:
 ```
 cd whep-load-tester
 go build
