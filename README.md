@@ -36,4 +36,4 @@ Let us know [via our helpdesk](https://wmspanel.com/help) if you have any questi
 
 ### Thanks
 
-Special thanks to Sean DuBois and all contributors for creating and maintining the excellent [Pion framework](https://github.com/pion/webrtc).
+Special thanks to Sean DuBois and all contributors for creating and maintaining the excellent [Pion framework](https://github.com/pion/webrtc).
