@@ -1,6 +1,6 @@
 # WHEP Load Tester
 
-This is a tool for testing WHEP WebRTC playback capacity. It launches the simultaneous playback of any number of WHEP streams. This way you can test the capacity of your WebRTC WHEP solution and see its performance limits.
+This is a tool for testing WHEP WebRTC playback capacity. It launches the simultaneous playback of any number of sessions for a WHEP stream. This way you can test the capacity of your WebRTC WHEP solution and see its performance limits.
 
 It's brought to you by [Softvelum](https://softvelum.com/) and it's part of our [WebRTC bundle](https://softvelum.com/webrtc/).
 
@@ -20,8 +20,8 @@ whep-load-tester$ ./whep_loader  -whep-addr <URL> -whep-sessions <number>
 
 ## Parameters
 
-* whep-addr is the URL of WHEP playback stream to test.
-* whep-sessions is the integer for the number of simultaneous sessions to run for the stream, by default it's 1.
+* '-whep-addr' is the URL of WHEP playback stream to test.
+* '-whep-sessions' is the number of simultaneous sessions to run for the stream, by default it's 1.
 * '--help' parameter provides tool description.
 
 ## Example
