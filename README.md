@@ -4,7 +4,7 @@ This is a tool for testing WHEP WebRTC playback performance. It launches the sim
 
 It's brought to you by [Softvelum](https://softvelum.com/) and it's part of our [WebRTC bundle](https://softvelum.com/webrtc/).
 
-This tool is used for testing our [WHEP ABR playback support in Nimble Streamer](https://softvelum.com/2024/05/webrtc-whep-abr-nimble-streamer/).
+This tool is used for testing our [WHEP ABR playback support in Nimble Streamer](https://softvelum.com/2024/05/webrtc-whep-abr-nimble-streamer/) as well as [WebRTC adaptive bitrate algorithm](https://softvelum.com/2024/12/webrtc-adaptive-bitrate-algorithm/) implementation.
 
 ## Build
 WHEP Load Tester is a Go program and in order to build it, you need to get into load tester folder and run go build:
